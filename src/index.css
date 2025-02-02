@@ -1,0 +1,26 @@
+body {
+	background-color: #282A36 !important;
+	font-family: "Vazir", 'tahoma', 'Roboto', 'Oxygen', 'Ubuntu', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+input[type="text"]::-webkit-input-placeholder,
+input[type="email"]::-webkit-input-placeholder,
+input[type="number"]::-webkit-input-placeholder {
+	color: #F8F8F2;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"] {
+	color: #F8F8F2 !important;
+	background-color: #44475A !important;
+	border-color: #BD93F9 !important;
+}
+
+.form-control {
+	color: #F8F8F2 !important;
+	background-color: #44475A !important;
+	border-color: #BD93F9 !important;
+}
